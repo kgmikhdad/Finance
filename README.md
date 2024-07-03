@@ -6,6 +6,41 @@
 - **Corporate Governance:** Board of directors, shareholder rights, executive compensation
 - **Working Capital Management:** Inventory management, accounts receivable/payable, cash management
 
+
+### 1. Corporate Finance
+
+**Capital Budgeting:**
+- **Project Evaluation:** Analyzing potential investment projects and deciding which ones to undertake based on their expected cash flows and profitability.
+- **Net Present Value (NPV):** Calculating the present value of cash inflows and outflows of a project to determine its profitability. A positive NPV indicates that the project is expected to generate value.
+- **Internal Rate of Return (IRR):** The discount rate that makes the NPV of a project zero. It represents the expected annual rate of return. Projects with an IRR higher than the company's required rate of return are typically accepted.
+
+**Capital Structure:**
+- **Debt vs. Equity Financing:** Deciding the mix of debt (loans and bonds) and equity (stock issuance) to finance the company's operations and growth. 
+- **Optimal Capital Structure:** Finding the right balance between debt and equity to minimize the company’s cost of capital and maximize shareholder value.
+- **Leverage:** Using borrowed capital to increase the potential return on investment. Higher leverage can lead to higher returns but also increases financial risk.
+
+**Dividend Policy:**
+- **Dividend Payout Ratio:** The proportion of earnings paid out as dividends to shareholders. Companies need to balance paying dividends and retaining earnings for growth.
+- **Residual Dividend Model:** Dividends are paid out from the residual or leftover equity only after all project capital needs are met.
+- **Stock Repurchase:** A company buys back its own shares from the marketplace, reducing the number of outstanding shares, often to increase shareholder value.
+
+**Mergers and Acquisitions:**
+- **Valuation:** Determining the value of a target company using methods such as discounted cash flow (DCF), comparables analysis, and precedent transactions.
+- **Synergy:** The potential additional value generated from combining two companies, such as cost savings, increased revenues, or enhanced market reach.
+- **Due Diligence:** A thorough investigation of the target company's financial, legal, and operational aspects before finalizing the merger or acquisition.
+- **Post-Merger Integration:** The process of combining and reorganizing the merging companies' operations, cultures, and systems to realize the expected synergies.
+
+**Corporate Governance:**
+- **Board of Directors:** A group of individuals elected to represent shareholders and oversee the company's management and strategic direction.
+- **Shareholder Rights:** Policies and practices ensuring that shareholders have a say in important company decisions, including voting on major issues.
+- **Executive Compensation:** Structuring pay and incentives for top executives to align their interests with those of the shareholders and motivate performance.
+
+**Working Capital Management:**
+- **Inventory Management:** Ensuring that the company maintains optimal inventory levels to meet demand without incurring unnecessary costs.
+- **Accounts Receivable/Payable:** Managing the timing of cash inflows from customers (accounts receivable) and cash outflows to suppliers (accounts payable) to maintain liquidity.
+- **Cash Management:** Efficiently managing the company's cash flow to ensure sufficient liquidity for operations while maximizing returns on idle cash.
+
+
 ### 2. **Investment**
 - **Portfolio Management:** Asset allocation, diversification, modern portfolio theory (MPT)
 - **Securities Analysis:** Fundamental analysis, technical analysis, valuation models
